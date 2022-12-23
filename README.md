@@ -2,10 +2,12 @@
 
 간단한 연산이 가능한 계산기 저장소
 
+<p align = "left">
 <img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="template version"/>
 <img src="https://img.shields.io/badge/language-html-red.svg?style=flat-square"/>
 <img src="https://img.shields.io/badge/language-css-blue.svg?style=flat-square"/>
 <img src="https://img.shields.io/badge/language-js-yellow.svg?style=flat-square"/>
+</p>
 
 ## 🚀 기능 요구 사항
 
